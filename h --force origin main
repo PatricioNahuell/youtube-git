@@ -1,0 +1,177 @@
+[33m8244c94[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{0}: checkout: moving from html to main
+[33m6b9360c[m[33m ([m[1;31morigin/html[m[33m, [m[1;32mhtml[m[33m)[m HEAD@{1}: checkout: moving from css to html
+[33m113088f[m[33m ([m[1;31morigin/css[m[33m, [m[1;32mcss[m[33m)[m HEAD@{2}: checkout: moving from js to css
+[33ma541842[m[33m ([m[1;31morigin/js[m[33m, [m[1;32mjs[m[33m)[m HEAD@{3}: checkout: moving from html to js
+[33m6b9360c[m[33m ([m[1;31morigin/html[m[33m, [m[1;32mhtml[m[33m)[m HEAD@{4}: checkout: moving from main to html
+[33m8244c94[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{5}: checkout: moving from main to main
+[33m8244c94[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{6}: checkout: moving from html to main
+[33m6b9360c[m[33m ([m[1;31morigin/html[m[33m, [m[1;32mhtml[m[33m)[m HEAD@{7}: checkout: moving from main to html
+[33m8244c94[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{8}: checkout: moving from html to main
+[33m6b9360c[m[33m ([m[1;31morigin/html[m[33m, [m[1;32mhtml[m[33m)[m HEAD@{9}: checkout: moving from main to html
+[33m8244c94[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{10}: checkout: moving from css to main
+[33m113088f[m[33m ([m[1;31morigin/css[m[33m, [m[1;32mcss[m[33m)[m HEAD@{11}: checkout: moving from js to css
+[33ma541842[m[33m ([m[1;31morigin/js[m[33m, [m[1;32mjs[m[33m)[m HEAD@{12}: checkout: moving from main to js
+[33m8244c94[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{13}: checkout: moving from html to main
+[33m6b9360c[m[33m ([m[1;31morigin/html[m[33m, [m[1;32mhtml[m[33m)[m HEAD@{14}: checkout: moving from css to html
+[33m113088f[m[33m ([m[1;31morigin/css[m[33m, [m[1;32mcss[m[33m)[m HEAD@{15}: checkout: moving from js to css
+[33ma541842[m[33m ([m[1;31morigin/js[m[33m, [m[1;32mjs[m[33m)[m HEAD@{16}: checkout: moving from css to js
+[33m113088f[m[33m ([m[1;31morigin/css[m[33m, [m[1;32mcss[m[33m)[m HEAD@{17}: checkout: moving from html to css
+[33m6b9360c[m[33m ([m[1;31morigin/html[m[33m, [m[1;32mhtml[m[33m)[m HEAD@{18}: checkout: moving from main to html
+[33m8244c94[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{19}: merge js: Merge made by the 'ort' strategy.
+[33m86798e9[m HEAD@{20}: merge css: Merge made by the 'ort' strategy.
+[33m6b9360c[m[33m ([m[1;31morigin/html[m[33m, [m[1;32mhtml[m[33m)[m HEAD@{21}: merge html: Fast-forward
+[33m2f261c8[m[33m ([m[1;31morigin/a[m[33m)[m HEAD@{22}: checkout: moving from js to main
+[33ma541842[m[33m ([m[1;31morigin/js[m[33m, [m[1;32mjs[m[33m)[m HEAD@{23}: commit: creando index.js
+[33m2f261c8[m[33m ([m[1;31morigin/a[m[33m)[m HEAD@{24}: checkout: moving from html to js
+[33m6b9360c[m[33m ([m[1;31morigin/html[m[33m, [m[1;32mhtml[m[33m)[m HEAD@{25}: commit: creando index.html
+[33mc6ff804[m HEAD@{26}: checkout: moving from main to html
+[33m2f261c8[m[33m ([m[1;31morigin/a[m[33m)[m HEAD@{27}: checkout: moving from html to main
+[33mc6ff804[m HEAD@{28}: checkout: moving from main to html
+[33m2f261c8[m[33m ([m[1;31morigin/a[m[33m)[m HEAD@{29}: checkout: moving from html to main
+[33mc6ff804[m HEAD@{30}: checkout: moving from css to html
+[33m113088f[m[33m ([m[1;31morigin/css[m[33m, [m[1;32mcss[m[33m)[m HEAD@{31}: checkout: moving from html to css
+[33mc6ff804[m HEAD@{32}: checkout: moving from css to html
+[33m113088f[m[33m ([m[1;31morigin/css[m[33m, [m[1;32mcss[m[33m)[m HEAD@{33}: commit: creando style.css
+[33m2f261c8[m[33m ([m[1;31morigin/a[m[33m)[m HEAD@{34}: checkout: moving from html to css
+[33mc6ff804[m HEAD@{35}: commit: creando index.html
+[33m2f261c8[m[33m ([m[1;31morigin/a[m[33m)[m HEAD@{36}: checkout: moving from main to html
+[33m2f261c8[m[33m ([m[1;31morigin/a[m[33m)[m HEAD@{37}: checkout: moving from js to main
+[33m2f261c8[m[33m ([m[1;31morigin/a[m[33m)[m HEAD@{38}: checkout: moving from css to js
+[33m2f261c8[m[33m ([m[1;31morigin/a[m[33m)[m HEAD@{39}: checkout: moving from html to css
+[33m2f261c8[m[33m ([m[1;31morigin/a[m[33m)[m HEAD@{40}: checkout: moving from a to html
+[33m2f261c8[m[33m ([m[1;31morigin/a[m[33m)[m HEAD@{41}: checkout: moving from main to a
+[33m2f261c8[m[33m ([m[1;31morigin/a[m[33m)[m HEAD@{42}: checkout: moving from css to main
+[33m2f261c8[m[33m ([m[1;31morigin/a[m[33m)[m HEAD@{43}: checkout: moving from html to css
+[33m2f261c8[m[33m ([m[1;31morigin/a[m[33m)[m HEAD@{44}: commit: creando index.html
+[33m10137aa[m HEAD@{45}: checkout: moving from main to html
+[33m10137aa[m HEAD@{46}: pull origin main: updating HEAD
+[33m10137aa[m HEAD@{47}: checkout: moving from a to main
+[33m10137aa[m HEAD@{48}: checkout: moving from main to a
+[33m3959e8d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{49}: checkout: moving from a to main
+[33m10137aa[m HEAD@{50}: checkout: moving from main to a
+[33m3959e8d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{51}: checkout: moving from a to main
+[33m10137aa[m HEAD@{52}: checkout: moving from main to a
+[33m3959e8d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{53}: checkout: moving from a to main
+[33m10137aa[m HEAD@{54}: checkout: moving from main to a
+[33m10137aa[m HEAD@{55}: checkout: moving from js to main
+[33m10137aa[m HEAD@{56}: checkout: moving from main to js
+[33mb063a50[m HEAD@{57}: checkout: moving from js to main
+[33m10137aa[m HEAD@{58}: commit: creando un index.js
+[33mc8162ca[m HEAD@{59}: checkout: moving from css to js
+[33mc8162ca[m HEAD@{60}: commit: creando un style.css
+[33m016b4b8[m HEAD@{61}: checkout: moving from html to css
+[33m016b4b8[m HEAD@{62}: commit: creando un index.html
+[33mb063a50[m HEAD@{63}: checkout: moving from main to html
+[33mb063a50[m HEAD@{64}: checkout: moving from html to main
+[33m4eaff1f[m HEAD@{65}: checkout: moving from css to html
+[33m4eaff1f[m HEAD@{66}: checkout: moving from html to css
+[33m4eaff1f[m HEAD@{67}: commit: creando index.html
+[33mb063a50[m HEAD@{68}: checkout: moving from main to html
+[33mb063a50[m HEAD@{69}: checkout: moving from css to main
+[33mb063a50[m HEAD@{70}: checkout: moving from html to css
+[33m616fe29[m HEAD@{71}: checkout: moving from main to html
+[33m3959e8d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{72}: checkout: moving from html to main
+[33m616fe29[m HEAD@{73}: checkout: moving from main to html
+[33m3959e8d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{74}: checkout: moving from html to main
+[33m616fe29[m HEAD@{75}: commit: creando index.html
+[33m3959e8d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{76}: checkout: moving from main to html
+[33m3959e8d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{77}: checkout: moving from html to main
+[33m72ff9fa[m HEAD@{78}: checkout: moving from main to html
+[33m3959e8d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{79}: checkout: moving from css to main
+[33mb063a50[m HEAD@{80}: checkout: moving from main to css
+[33m3959e8d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{81}: checkout: moving from html to main
+[33m72ff9fa[m HEAD@{82}: checkout: moving from main to html
+[33m3959e8d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{83}: checkout: moving from html to main
+[33m72ff9fa[m HEAD@{84}: checkout: moving from main to html
+[33m3959e8d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{85}: checkout: moving from html to main
+[33m72ff9fa[m HEAD@{86}: checkout: moving from main to html
+[33m3959e8d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{87}: checkout: moving from html to main
+[33m72ff9fa[m HEAD@{88}: checkout: moving from css to html
+[33mb063a50[m HEAD@{89}: checkout: moving from css to css
+[33mb063a50[m HEAD@{90}: checkout: moving from html to css
+[33m72ff9fa[m HEAD@{91}: checkout: moving from main to html
+[33m3959e8d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{92}: checkout: moving from html to main
+[33m72ff9fa[m HEAD@{93}: checkout: moving from main to html
+[33m3959e8d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{94}: checkout: moving from html to main
+[33m72ff9fa[m HEAD@{95}: checkout: moving from html to html
+[33m72ff9fa[m HEAD@{96}: checkout: moving from main to html
+[33m3959e8d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{97}: checkout: moving from html to main
+[33m72ff9fa[m HEAD@{98}: checkout: moving from main to html
+[33m3959e8d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{99}: checkout: moving from main to main
+[33m3959e8d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{100}: checkout: moving from html to main
+[33m72ff9fa[m HEAD@{101}: checkout: moving from css to html
+[33mb063a50[m HEAD@{102}: checkout: moving from html to css
+[33m72ff9fa[m HEAD@{103}: checkout: moving from main to html
+[33m3959e8d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{104}: checkout: moving from js to main
+[33m4d5cb64[m HEAD@{105}: checkout: moving from html to js
+[33m72ff9fa[m HEAD@{106}: checkout: moving from css to html
+[33mb063a50[m HEAD@{107}: checkout: moving from main to css
+[33m3959e8d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{108}: merge css: Merge made by the 'ort' strategy.
+[33m69c4e50[m HEAD@{109}: checkout: moving from css to main
+[33mb063a50[m HEAD@{110}: commit: creando style.css
+[33m15d4b84[m HEAD@{111}: checkout: moving from main to css
+[33m69c4e50[m HEAD@{112}: checkout: moving from main to main
+[33m69c4e50[m HEAD@{113}: merge js: Merge made by the 'ort' strategy.
+[33mab708d7[m HEAD@{114}: checkout: moving from js to main
+[33m4d5cb64[m HEAD@{115}: checkout: moving from main to js
+[33mab708d7[m HEAD@{116}: merge css: Merge made by the 'ort' strategy.
+[33m86fe5ce[m HEAD@{117}: checkout: moving from css to main
+[33m15d4b84[m HEAD@{118}: commit: creando Style.css
+[33mf2b784d[m HEAD@{119}: checkout: moving from main to css
+[33m86fe5ce[m HEAD@{120}: checkout: moving from css to main
+[33mf2b784d[m HEAD@{121}: checkout: moving from main to css
+[33m86fe5ce[m HEAD@{122}: commit (merge): creando archivo Style.css
+[33m72ff9fa[m HEAD@{123}: checkout: moving from html to main
+[33m72ff9fa[m HEAD@{124}: checkout: moving from css to html
+[33mf2b784d[m HEAD@{125}: checkout: moving from js to css
+[33m4d5cb64[m HEAD@{126}: checkout: moving from js to js
+[33m4d5cb64[m HEAD@{127}: checkout: moving from css to js
+[33mf2b784d[m HEAD@{128}: checkout: moving from js to css
+[33m4d5cb64[m HEAD@{129}: checkout: moving from css to js
+[33mf2b784d[m HEAD@{130}: checkout: moving from main to css
+[33m72ff9fa[m HEAD@{131}: checkout: moving from js to main
+[33m4d5cb64[m HEAD@{132}: checkout: moving from html to js
+[33m72ff9fa[m HEAD@{133}: checkout: moving from main to html
+[33m72ff9fa[m HEAD@{134}: checkout: moving from js to main
+[33m4d5cb64[m HEAD@{135}: checkout: moving from html to js
+[33m72ff9fa[m HEAD@{136}: checkout: moving from js to html
+[33m4d5cb64[m HEAD@{137}: checkout: moving from main to js
+[33m72ff9fa[m HEAD@{138}: checkout: moving from main to main
+[33m72ff9fa[m HEAD@{139}: merge js: updating HEAD
+[33m72ff9fa[m HEAD@{140}: checkout: moving from js to main
+[33m4d5cb64[m HEAD@{141}: checkout: moving from main to js
+[33m72ff9fa[m HEAD@{142}: checkout: moving from js to main
+[33m4d5cb64[m HEAD@{143}: checkout: moving from html to js
+[33m72ff9fa[m HEAD@{144}: checkout: moving from main to html
+[33m72ff9fa[m HEAD@{145}: checkout: moving from js to main
+[33m4d5cb64[m HEAD@{146}: checkout: moving from html to js
+[33m72ff9fa[m HEAD@{147}: checkout: moving from html to html
+[33m72ff9fa[m HEAD@{148}: checkout: moving from css to html
+[33mf2b784d[m HEAD@{149}: checkout: moving from js to css
+[33m4d5cb64[m HEAD@{150}: checkout: moving from css to js
+[33mf2b784d[m HEAD@{151}: checkout: moving from main to css
+[33m72ff9fa[m HEAD@{152}: merge js: updating HEAD
+[33m72ff9fa[m HEAD@{153}: merge js: updating HEAD
+[33m72ff9fa[m HEAD@{154}: merge css: updating HEAD
+[33m72ff9fa[m HEAD@{155}: checkout: moving from main to main
+[33m72ff9fa[m HEAD@{156}: merge html: Fast-forward
+[33m96b9662[m HEAD@{157}: checkout: moving from js to main
+[33m4d5cb64[m HEAD@{158}: commit: Creando index.js
+[33m96b9662[m HEAD@{159}: checkout: moving from main to js
+[33m96b9662[m HEAD@{160}: checkout: moving from css to main
+[33mf2b784d[m HEAD@{161}: checkout: moving from html to css
+[33m72ff9fa[m HEAD@{162}: commit: Index.HTML
+[33maaf65a0[m HEAD@{163}: checkout: moving from main to html
+[33m96b9662[m HEAD@{164}: checkout: moving from css to main
+[33mf2b784d[m HEAD@{165}: commit: Creando Style.CSS
+[33maaf65a0[m HEAD@{166}: checkout: moving from html to css
+[33maaf65a0[m HEAD@{167}: commit: Creando Style.css
+[33m28860fb[m HEAD@{168}: commit: Creando Style.css
+[33m96b9662[m HEAD@{169}: checkout: moving from main to html
+[33m96b9662[m HEAD@{170}: checkout: moving from b to main
+[33m96b9662[m HEAD@{171}: checkout: moving from main to b
+[33m96b9662[m HEAD@{172}: commit: Ignorando Archivos
+[33mfaa75ed[m HEAD@{173}: pull: Fast-forward
+[33m7b41337[m HEAD@{174}: commit: Modificando el contenido de README
+[33m004630b[m HEAD@{175}: commit: Modificando El contenido de README
+[33md1c5dd7[m HEAD@{176}: commit (initial): git commit 😁
