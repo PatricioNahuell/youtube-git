@@ -1,0 +1,178 @@
+commit e52973731f47c93edc899001befd751024985b3e
+Merge: 5f04769 67fd96d
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Wed Aug 23 12:04:40 2023 -0300
+
+    agregando dos parrafos
+
+commit 5f047690df27cfe6b6ab8dd4452a6384cc670647
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Wed Aug 23 11:59:17 2023 -0300
+
+    Agregando dos parrafos
+
+commit 67fd96d2b7d013c01b348055a05462dd8cd59eec
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Wed Aug 23 11:59:17 2023 -0300
+
+    Agregando parrafo
+
+commit bad03b41925c62a243d66e18dfba0a2ac5b7ffbe
+Merge: e4e7b57 228e9d5
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Wed Aug 23 11:54:38 2023 -0300
+
+    Resolviendo conflictos de estacion del año y fecha de inicio
+
+commit e4e7b571bfad7a03cf6c6324e3b0f59bc880ebb4
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Wed Aug 23 11:37:47 2023 -0300
+
+    Agregando las estaciones del año con fecha de inicio
+
+commit 228e9d53e3cb834cf59aa935a5c33893b375dc2b
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Wed Aug 23 11:37:47 2023 -0300
+
+    Agregando las estaciones del año
+
+commit e0e00dcdc0827fef2515d3faf3698696c3260d21
+Merge: a7f4d55 925ccec
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Wed Aug 23 11:20:38 2023 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 925ccec0ea43650be52d95c543909ba10597969f
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Wed Aug 23 11:12:38 2023 -0300
+
+    Agregando index.js al index.html
+
+commit a7f4d556333ecdefefde0ef0b6550f24cab97de4
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Wed Aug 23 11:08:48 2023 -0300
+
+    agregando style.css al index.html
+
+commit 8244c94c4f3cf691df455955f0349eb2820c99e7
+Merge: 86798e9 a541842
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Wed Aug 23 10:24:53 2023 -0300
+
+    Merge branch 'js'
+
+commit 86798e9baa94e8cb2782b0b602acf67d5b68e244
+Merge: 6b9360c 113088f
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Wed Aug 23 10:24:50 2023 -0300
+
+    Merge branch 'css'
+
+commit a5418423b9eafa638d7bfea13da44fcbd6013514
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Wed Aug 23 10:24:25 2023 -0300
+
+    creando index.js
+
+commit 6b9360cdb1067b6e12d5b0ba36d675feffb17d41
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Wed Aug 23 10:22:49 2023 -0300
+
+    creando index.html
+
+commit 113088f66a7ca34239749c6b9c2b34e34e06fb05
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Wed Aug 23 10:01:58 2023 -0300
+
+    creando style.css
+
+commit c6ff804a42a388bd2586960f0b81c27dfaf7f8da
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Wed Aug 23 10:00:30 2023 -0300
+
+    creando index.html
+
+commit 2f261c8488fa8becbb9a9f82ce1514d505f89cd9
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Wed Aug 23 09:29:28 2023 -0300
+
+    creando index.html
+
+commit 10137aab7154f4e02d83020f9b9070a564f4638d
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Tue Aug 22 17:18:57 2023 -0300
+
+    creando un index.js
+
+commit c8162cac61fa34e81df025ab52a9ca602d995886
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Tue Aug 22 17:17:15 2023 -0300
+
+    creando un style.css
+
+commit 016b4b82ab42e8a3155c687eef744e964ef2fca5
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Tue Aug 22 17:15:45 2023 -0300
+
+    creando un index.html
+
+commit b063a50c7310161c53ffbd21c9241515dd1d70e8
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Tue Aug 22 16:18:06 2023 -0300
+
+    creando style.css
+
+commit 15d4b8485f36fe39099ca6697ec30b03ddd38d14
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Tue Aug 22 16:13:59 2023 -0300
+
+    creando Style.css
+
+commit f2b784dc9f18c464fbcc9570547ea907854709c3
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Tue Aug 22 15:23:43 2023 -0300
+
+    Creando Style.CSS
+
+commit aaf65a024ae8d50ec41a7b58e7d5fb8eff58709d
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Tue Aug 22 15:17:32 2023 -0300
+
+    Creando Style.css
+
+commit 28860fbcf941ea39861afeeabf7687869219451c
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Tue Aug 22 15:11:23 2023 -0300
+
+    Creando Style.css
+
+commit 96b96628fd3934adf5a8a200484d3c5960c8bf89
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Tue Aug 22 11:26:42 2023 -0300
+
+    Ignorando Archivos
+
+commit faa75ed24ce14adaa4d4703f42ad3a376beddc3f
+Author: PatricioNahuell <122061946+PatricioNahuell@users.noreply.github.com>
+Date:   Tue Aug 22 09:55:24 2023 -0300
+
+    Create LICENSE
+
+commit 7b41337a9a9cbccb32797283f2624db1c007ab27
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Tue Aug 22 09:43:21 2023 -0300
+
+    Modificando el contenido de README
+
+commit 004630b989c7ec88b51a8c8ba6e710af71b7af52
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Tue Aug 22 09:31:20 2023 -0300
+
+    Modificando El contenido de README
+
+commit d1c5dd79796d0ed6ed07c323b69a1304e8e0bc5b
+Author: pato <pato_de_merlo4@hotmail.com>
+Date:   Mon Aug 21 08:31:36 2023 -0300
+
+    git commit 😁

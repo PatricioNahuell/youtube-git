@@ -1,0 +1,40 @@
+*   e529737 agregando dos parrafos
+|\  
+| * 67fd96d Agregando parrafo
+* | 5f04769 Agregando dos parrafos
+|/  
+*   bad03b4 Resolviendo conflictos de estacion del año y fecha de inicio
+|\  
+| * 228e9d5 Agregando las estaciones del año
+* | e4e7b57 Agregando las estaciones del año con fecha de inicio
+|/  
+*   e0e00dc Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 925ccec Agregando index.js al index.html
+* | a7f4d55 agregando style.css al index.html
+* |   8244c94 Merge branch 'js'
+|\ \  
+| * | a541842 creando index.js
+* | |   86798e9 Merge branch 'css'
+|\ \ \  
+| |_|/  
+|/| |   
+| * | 113088f creando style.css
+| |/  
+* | 6b9360c creando index.html
+* | c6ff804 creando index.html
+|/  
+* 2f261c8 creando index.html
+* 10137aa creando un index.js
+* c8162ca creando un style.css
+* 016b4b8 creando un index.html
+* b063a50 creando style.css
+* 15d4b84 creando Style.css
+* f2b784d Creando Style.CSS
+* aaf65a0 Creando Style.css
+* 28860fb Creando Style.css
+* 96b9662 Ignorando Archivos
+* faa75ed Create LICENSE
+* 7b41337 Modificando el contenido de README
+* 004630b Modificando El contenido de README
+* d1c5dd7 git commit 😁
