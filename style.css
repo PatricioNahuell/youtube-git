@@ -1,4 +1,15 @@
 html {
   background-color: black;
   color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+a {
+  color:red;
+}
+a:hover {
+  color: yellow
+}
+img {
+  max-width: 100%;
 }
